@@ -1,2 +1,3 @@
 # new_repo
-Temp repo
+Learning Git by ramu
+
